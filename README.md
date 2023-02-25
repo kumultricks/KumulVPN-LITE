@@ -1,3 +1,3 @@
-# KumulVPN-LITE
+# PNG FreeNet LITE
 
-##LITE Version of Kumul VPN PRO
+##LITE Version of PNG FreeNet PRO
